@@ -15,7 +15,8 @@ I am a developer.
 
 <br/>
 
-[![Top Langs at corebox](https://github-readme-stats.vercel.app/api/top-langs/?username=s96Abrar)](https://github.com/s96Abrar/corebox)
+<img align="left" alt="s96Abrar Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s96Abrar&layout=compact&show_icons=true&hide_border=true" />
+
 <!--
 **s96Abrar/s96Abrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
