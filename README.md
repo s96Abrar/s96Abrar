@@ -3,12 +3,14 @@ I am a developer.
 
 ## Connect with me
 <a href="https://gitlab.com/s96Abrar">
-  <img alt="s96Abrar | GitLab" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/s96Abrar/s96Abrar/master/gitlab.svg" />
+  <img alt="s96Abrar's GitLab Profile" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/s96Abrar/s96Abrar/master/gitlab.svg" />
+</a>
+<a href="https://dev.to/s96abrar">
+  <img alt="s96Abrar's DEV Profile" align="left" width="26px" style="margin-right:15px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 </a>
 <a href="https://github.com/s96Abrar">
-  <img alt="s96Abrar | GitHub" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img alt="s96Abrar's GitHub Profile" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </a>
-
 <br/>
 
 <img align="left" alt="s96Abrar Github Stats" src="https://github-readme-stats.vercel.app/api?username=s96Abrar&show_icons=true&hide_border=true" />
