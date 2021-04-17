@@ -13,9 +13,6 @@ I am a developer.
 </a>
 
 
-## Stats
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="s96Abrar Github Stats" src="https://github-readme-stats.vercel.app/api?username=s96Abrar&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 </a>
